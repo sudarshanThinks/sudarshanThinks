@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudarshanThinks
+- 👋 Hi, I’m @SudarshanTodkari
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on ...
